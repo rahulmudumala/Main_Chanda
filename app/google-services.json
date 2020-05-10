@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067850437038",
+    "firebase_url": "https://mainchanda-a2ea7.firebaseio.com",
+    "project_id": "mainchanda-a2ea7",
+    "storage_bucket": "mainchanda-a2ea7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067850437038:android:39750db71f692e768b383f",
+        "android_client_info": {
+          "package_name": "com.example.main_chanda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067850437038-6im5igsnacrcaf8gjf6por2p57qnetbm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.main_chanda",
+            "certificate_hash": "ca5f947db9f4a80fc53426ae2930e33e9b8abd43"
+          }
+        },
+        {
+          "client_id": "1067850437038-0t7rmnhs38djapumsd6dfk0gbipmintv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnPNE9WFr72oCKD3_bps6DeJFqTJ-Y6tY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067850437038-0t7rmnhs38djapumsd6dfk0gbipmintv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
